@@ -1,0 +1,21 @@
+[21-Sep-2017 18:00:06 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/ubuntu/workspace/Projects/web/index.php on line 3
+[21-Sep-2017 18:00:06 UTC] PHP Stack trace:
+[21-Sep-2017 18:00:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/Projects/web/index.php:0
+[22-Sep-2017 12:26:13 UTC] PHP Fatal error:  Class 'Silex' not found in /home/ubuntu/workspace/Projects/web/index.php on line 5
+[22-Sep-2017 12:26:13 UTC] PHP Stack trace:
+[22-Sep-2017 12:26:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Projects/web/index.php:0
+[27-Sep-2017 07:45:35 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/Projects/web/Projects/vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Projects/web/index.php on line 3
+[27-Sep-2017 07:45:35 UTC] PHP Stack trace:
+[27-Sep-2017 07:45:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Projects/web/index.php:0
+[27-Sep-2017 07:45:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/Projects/web/Projects/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Projects/web/index.php on line 3
+[27-Sep-2017 07:45:35 UTC] PHP Stack trace:
+[27-Sep-2017 07:45:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Projects/web/index.php:0
+[27-Sep-2017 07:46:00 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/Projects/webProjects/vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Projects/web/index.php on line 3
+[27-Sep-2017 07:46:00 UTC] PHP Stack trace:
+[27-Sep-2017 07:46:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/Projects/web/index.php:0
+[27-Sep-2017 07:46:00 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/Projects/webProjects/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Projects/web/index.php on line 3
+[27-Sep-2017 07:46:00 UTC] PHP Stack trace:
+[27-Sep-2017 07:46:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/Projects/web/index.php:0
+[27-Sep-2017 07:46:41 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/ubuntu/workspace/Projects/web/index.php on line 9
+[27-Sep-2017 07:46:41 UTC] PHP Stack trace:
+[27-Sep-2017 07:46:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/Projects/web/index.php:0
